@@ -1,0 +1,39 @@
+.until {
+    margin: 25px auto;
+    max-width: 500px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1em;
+    padding: 1em;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    /* color: white; */
+    font-family: sans-serif;
+}
+
+.until__component {
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.until__numeric {
+    color: #333333;
+    padding: 0.5em 0;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.until__unit {
+    font-size: 1.2em;
+    padding-bottom: 1em;
+    font-weight: bold;
+    color: cornflowerblue;
+}
+
+.until__event {
+    grid-column: span 4;
+    text-align: center;
+    color: white;
+}
