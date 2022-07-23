@@ -1,6 +1,6 @@
-This is a repository to practice merging. 
+This is a repository to practice Project Management on GitHub and Jira.
 
-Countdown Clock to Graduation Date that has a changing background and quotes.
+The project is a Countdown Clock to Graduation Date that has a changing background and quotes.
 
 --> Countdown Clock
 --> Randomized array of high resolution wallpapers 
