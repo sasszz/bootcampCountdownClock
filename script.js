@@ -2,7 +2,7 @@
 
 const countdown  = () => {
     // set target date in millisecond
-    const countDate = new Date('October 24, 2022 00:00:00').getTime();
+    const countDate = new Date('October 21, 2022 00:00:00').getTime();
     // get current time in milliseconds
     const nowDate = new Date().getTime();
     // get difference
