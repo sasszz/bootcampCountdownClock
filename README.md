@@ -4,7 +4,7 @@
 *Constructed using HTML, CSS and Javascript*
 
 - With special assistance from @cmderobertis and @nisrinekane
-- Pages link to site: https://sasszz.github.io/
+- Pages link to site: https://sasszz.github.io/bootcampCountdownClock/
 
 ![alt text](./assets/countdownClock.png)
 
