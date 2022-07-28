@@ -1,18 +1,13 @@
-This is a repository to practice Project Management on GitHub and Jira.
+# Bootcamp Graduation Countdown Clock
+## The project is a Countdown Clock to a Bootcamp Graduation Date of October 21st
 
-The project is a Countdown Clock to Graduation Date that has a changing background and quotes.
+*Constructed using HTML, CSS and Javascript*
+
+- With special assistance from @cmderobertis and @nisrinekane
+- Pages link to site: https://sasszz.github.io/
 
 ![alt text](./assets/countdownClock.png)
 
-* Countdown Clock
-* Randomized array of high resolution wallpapers 
-  -pexels.com
-* Possibly make it CodingDojo theme
-* Randomized array of quotes
-* HTML, CSS, and JS, possibly bootstrap
-* nice README with screencap
-* Professional level project
-* Pass it on to future cohorts
 
 
 
